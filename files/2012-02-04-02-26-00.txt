@@ -1,0 +1,7 @@
+<a href="http://www.test.com">test</a>
+<a href="http://www.test.com/?cat=7">test</a>
+<a href="http://www.test.com/?cat=1">test</a>
+<a href="http://www.test.com/?tag=tag1">test</a>
+<a href="http://www.test.com/?tag=tag2">test</a>
+<a href="http://www.test.com/?tag=tag3">test</a>
+<a href="http://www.test.com/?tag=tag4">test</a>
