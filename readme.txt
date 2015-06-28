@@ -1,5 +1,5 @@
 === SEO Ready Links ===
-Contributors: UltraNoodle, Simon Painter
+Contributors: UltraNoodle, RenTheMighty
 Donate link: https://www.ultranoodle.com/
 Tags: SEO, Links, Anchor
 Requires at least: 3.0.1
